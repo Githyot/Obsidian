@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "28a44eecf3c57628",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc91e0fa4caff6db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e572cde8aee0c5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8ee0c1f8161161c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bea058bc5411f4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "110c1ca0eea76438",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "804779792e3074fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Saúde",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "975842307e675a3f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c2e365f8a29d97ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "a505945b3e13bec7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed60f4132f497e37",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fc8b1a6eb162244d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7fae1d88bed0777d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cd6813bc967ccc28",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git/README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "audio-recorder:Start/stop recording": false,
+      "command-palette:Open command palette": false,
+      "media-extended:Open media": false
+    }
+  },
+  "active": "110c1ca0eea76438",
+  "lastOpenFiles": [
+    "Git/publish/Hyotaichi/Vault/Outro/Japanease/hiragana-mnemonic-chart-by-tofugu.jpg",
+    "Git/publish/Hyotaichi/Vault/Outro/Japanease/hiragana-chart-by-tofugu.jpg",
+    "Git/publish/Hyotaichi/Vault/Odontologia/TCC/TCC - Lucimara.md",
+    "Git/publish/Hyotaichi/Vault/Odontologia/Projetos/Robot Ortho.md",
+    "Git/publish/Hyotaichi/Vault/Odontologia/Pós graduação/Ortodontia Extensão.canvas",
+    "Git/publish/Hyotaichi/Vault/Odontologia/Palestras/Ângelo Fraturas dos ossos da face.md",
+    "Git/publish/Hyotaichi/Vault/Odontologia/Pós graduação/Extensão Ortodontia.md",
+    "Git/publish/Hyotaichi/Vault/Odontologia/Palestras/Palestras.md",
+    "Git/publish/Hyotaichi/Vault/Odontologia/Palestras/Liga CTBMFE.md",
+    "Git/publish/Hyotaichi/Vault/Odontologia/Palestras/Conteúdo consultório.md",
+    "Git/publish/Hyotaichi/Vault/Odontologia/Ensino superior/Saúde Coletiva Descartado.md",
+    "Git/publish/Hyotaichi/Vault/Odontologia/Ensino superior/Resumo endoperio 14-08-2024 - Beatriz.md",
+    "Git/publish/Hyotaichi/Vault/Odontologia/Ensino superior/Resumo 3°B - Periodontia e Endodontia.md",
+    "Git/publish/Hyotaichi/Vault/Odontologia/Ensino superior/Resumo 3°B - Prótese.md",
+    "Git/publish/Hyotaichi/Vault/Odontologia/Ensino superior/Resumo 3°B - Ortodontia.md",
+    "Git/publish/Hyotaichi/Vault/Odontologia/Ensino superior/Resumo 3°B - Odontopediatria.md",
+    "Git/publish/Hyotaichi/Vault/Odontologia/Ensino superior/Resumo 3°B - Implantodontia.md",
+    "Git/publish/Hyotaichi/Vault/Odontologia/Ensino superior/Resumo 3°B - Cirurgia.md",
+    "Git/publish/Hyotaichi/Vault/Odontologia/Ensino superior/Resumo 2°B - Prótese e Dentística.md",
+    "Git/publish/Hyotaichi/Vault/Odontologia/Ensino superior/Resumo 3°- Saúde Coletiva.md",
+    "Git/publish/Hyotaichi/Vault/Odontologia/Ensino superior/Resumo 2°B - Saúde Coletiva.md",
+    "Git/publish/Hyotaichi/Vault/Odontologia/Ensino superior/Resumo 2°B - Periodontia e Endodontia.md",
+    "Git/publish/Hyotaichi/Vault/Odontologia/Ensino superior/Resumo 2°B - Cirurgia e traumatologia bucomaxilofacial.md",
+    "Git/publish/Hyotaichi/Vault/Odontologia/Ensino superior/Resumo 2°B - Pacientes com necessidades especiaiss.md",
+    "Git/publish/Hyotaichi/Vault/Odontologia/Ensino superior/Resumo 2°B - Odontopediatria.md",
+    "Git/publish/Hyotaichi/Vault/Odontologia/Ensino superior/Resmo 3°B - Dentística.md",
+    "Git/publish/Hyotaichi/Vault/Odontologia/Ensino superior/Ortodontia I.md",
+    "Git/publish/Hyotaichi/Vault/Odontologia/Ensino superior/Harmonização.md",
+    "Git/publish/Hyotaichi/Vault/Imagens/imagenss/Untitled.png",
+    "Git/publish/Hyotaichi/Vault/Imagens/imagenss/Untitled 2.png",
+    "Git/publish/Hyotaichi/Vault/Imagens/imagenss/Untitled 1.png",
+    "Git/publish/Hyotaichi/Vault/Imagens/imagenss/Untitle2d.png",
+    "Git/publish/Hyotaichi/Vault/Imagens/imagenss/Untitle22d 1.png",
+    "Git/publish/Hyotaichi/Vault/Imagens/imagenss/Untitle22d.png",
+    "Git/publish/Hyotaichi/Vault/Imagens/imagenss/Pasted image.png",
+    "Git/publish/Hyotaichi/Vault/Imagens/imagenss/Pasted image 20240626183401.png",
+    "Git/publish/Hyotaichi/Vault/Imagens/imagenss/Pasted image 20240626183227.png",
+    "Git/publish/Hyotaichi/Vault/Outro/Japanease",
+    "Git/publish/Hyotaichi/Vault/Odontologia/Projetos",
+    "Git/publish/Hyotaichi/Vault/Odontologia/TCC",
+    "Git/publish/Hyotaichi/Vault/Odontologia/Pós graduação",
+    "Git/publish/Hyotaichi/Vault/Odontologia/Palestras",
+    "Git/publish/Hyotaichi/Vault/Odontologia/Prisma",
+    "Git/publish/Hyotaichi/Vault/Odontologia/Ensino superior",
+    "Git/publish/Hyotaichi/Vault/Imagens/imagenss",
+    "Git/publish/Hyotaichi/Vault/Outro",
+    "Git/publish/Hyotaichi/Vault/Odontologia",
+    "Git/publish/Vault/Odontologia/Pós graduação/Ortodontia Extensão.canvas",
+    "Git/publish/Vault/Odontologia/Untitled 1.canvas",
+    "Git/publish/Vault/Odontologia/Untitled.canvas",
+    "Git/publish/Vault/Untitled.canvas",
+    "Git/publish/Vault/Untitled 1.canvas",
+    "Git/publish/Vault/Ortodontia Extensão.canvas"
+  ]
+}

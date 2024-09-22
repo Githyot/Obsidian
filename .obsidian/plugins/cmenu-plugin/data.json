@@ -1,0 +1,55 @@
+{
+  "aestheticStyle": "glass",
+  "menuCommands": [
+    {
+      "id": "obsidian-text-format:merge-line",
+      "name": "Text Format: Merge broken paragraph(s) in selection",
+      "icon": "wrap-text"
+    },
+    {
+      "id": "obsidian-banners:banners:addBanner",
+      "name": "Banners: Add/Change banner with local image",
+      "icon": "remix-ImageEditFill"
+    },
+    {
+      "id": "highlightr-plugin:Cyan",
+      "name": "Highlightr: Cyan",
+      "icon": "highlightr-pen-cyan"
+    },
+    {
+      "id": "highlightr-plugin:Green",
+      "name": "Highlightr: Green",
+      "icon": "highlightr-pen-green"
+    },
+    {
+      "id": "highlightr-plugin:Blue",
+      "name": "Highlightr: Blue",
+      "icon": "highlightr-pen-blue"
+    },
+    {
+      "id": "highlightr-plugin:Yellow",
+      "name": "Highlightr: Yellow",
+      "icon": "highlightr-pen-yellow"
+    },
+    {
+      "id": "highlightr-plugin:Orange",
+      "name": "Highlightr: Orange",
+      "icon": "highlightr-pen-orange"
+    },
+    {
+      "id": "obsidian-enhancing-export:obsidian-enhancing-export:export",
+      "name": "Enhancing Export: Export to...",
+      "icon": "document"
+    },
+    {
+      "id": "text-extractor:extract-to-clipboard",
+      "name": "Text Extractor: Extract text to clipboard",
+      "icon": "feather-clipboard"
+    }
+  ],
+  "appendMethod": "workspace",
+  "shouldShowMenuOnSelect": false,
+  "cMenuVisibility": true,
+  "cMenuBottomValue": 4.25,
+  "cMenuNumRows": 9
+}
