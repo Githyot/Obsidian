@@ -8,7 +8,7 @@ Aqui esta todo o conhecimento que foi de alguma forma documentado por nós, para
 6. Baixe e instale o Obsidian https://obsidian.md/download.
 7. Abra o obsidian e clique em "Open folder as a vault" e vá até a pasta "Documentos" e busque pela pasta "Obsidian-main" e clique nela para selecionar como vault.
 8.  Agora no Obsidian permita a Vault clicando em " Trust author and enable plugins", aperte "CTRL+P" e escreva "Clone an existing" e aperte ENTER.
-9. Cole "https://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@github.com/Githyot/Conhecimento.git" na pergunta de "Insira a URL" e depois quando pedir a pasta de destino escreva "GIT" e aperte enter e depois aperte enter novamente até sumir o box de pergunta.
+9. Cole "https://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@github.com/Githyot/Conhecimento.git" na pergunta de "Insira a URL" e depois quando pedir a pasta de destino escreva "GIT" e aperte enter e depois aperte enter novamente até sumir o box de pergunta.
 10. Pronto, agora você está participando do compartilhamento deste Cofre (Vault) de arquivos ;)
 # Livros
 Não é possível eu adicionar a sincronização pelo tamanho dos arquivos, então baixem os arquivos por aqui
