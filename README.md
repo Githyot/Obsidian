@@ -17,3 +17,5 @@ Não é possível eu adicionar a sincronização pelo tamanho dos arquivos, ent�
 Eu tinha acesso a várias vídeo aulas mas confesso que perdi o tempo de gravar, mas irei fazer um link futuramente quando baixar tudo, tem curso de simplismente TUDO de Odonto, peço para não compartilhar de forma leviana porque são bem caros ;)
 # Outros arquivos
 Temos também o link [Facul Compartilhado](https://1drv.ms/f/s!Ag3yfrOVl8CXgZhoPpxlbvjVJxTlKw?e=XjtP2u)
+
+https://<PERSONAL_ACCESS_TOKEN>@github.com/<USERNAME>/<REPO>.git
